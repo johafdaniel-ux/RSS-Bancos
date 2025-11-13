@@ -1,79 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Enlaces a Bancos Internacionales</title>
+    <title>Enlaces a Bancos</title>
     <link>https://tuempresa.com</link>
-    <description>Accesos rápidos a portales bancarios internacionales</description>
+    <description>Accesos rápidos a los portales bancarios</description>
     <language>es</language>
 
     <item>
-      <title>JPMorgan Chase (Estados Unidos)</title>
-      <link>https://www.jpmorganchase.com</link>
-      <description>Portal oficial de JPMorgan Chase</description>
-      <pubDate>Thu, 13 Nov 2025 10:00:00 GMT</pubDate>
+      <title>Banco Santander</title>
+      <link>https://www.santander.com.mx</link>
+      <description>Portal oficial de Santander México</description>
+      <pubDate>Thu, 13 Nov 2025 09:00:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Bank of America (Estados Unidos)</title>
-      <link>https://www.bankofamerica.com</link>
-      <description>Portal oficial de Bank of America</description>
-      <pubDate>Thu, 13 Nov 2025 10:10:00 GMT</pubDate>
+      <title>BBVA México</title>
+      <link>https://www.bbva.mx</link>
+      <description>Acceso al portal de BBVA México</description>
+      <pubDate>Thu, 13 Nov 2025 09:10:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Industrial & Commercial Bank of China (ICBC) (China)</title>
-      <link>https://www.icbc.com.cn</link>
-      <description>Portal oficial de ICBC</description>
-      <pubDate>Thu, 13 Nov 2025 10:20:00 GMT</pubDate>
+      <title>Banorte</title>
+      <link>https://www.banorte.com</link>
+      <description>Portal en línea de Banorte</description>
+      <pubDate>Thu, 13 Nov 2025 09:20:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>HSBC Holdings (Reino Unido)</title>
-      <link>https://www.hsbc.com</link>
-      <description>Portal oficial de HSBC</description>
-      <pubDate>Thu, 13 Nov 2025 10:30:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Banco Santander (España)</title>
-      <link>https://www.bancosantander.es</link>
-      <description>Portal oficial de Banco Santander</description>
-      <pubDate>Thu, 13 Nov 2025 10:40:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>BBVA (España / México)</title>
-      <link>https://www.bbva.com</link>
-      <description>Portal oficial de BBVA</description>
-      <pubDate>Thu, 13 Nov 2025 10:50:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Barclays (Reino Unido)</title>
-      <link>https://home.barclays</link>
-      <description>Portal oficial de Barclays</description>
-      <pubDate>Thu, 13 Nov 2025 11:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>UBS Group (Suiza)</title>
-      <link>https://www.ubs.com</link>
-      <description>Portal oficial de UBS Group AG</description>
-      <pubDate>Thu, 13 Nov 2025 11:10:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>BNP Paribas (Francia)</title>
-      <link>https://group.bnpparibas</link>
-      <description>Portal oficial de BNP Paribas</description>
-      <pubDate>Thu, 13 Nov 2025 11:20:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Deutsche Bank (Alemania)</title>
-      <link>https://www.db.com</link>
-      <description>Portal oficial de Deutsche Bank</description>
-      <pubDate>Thu, 13 Nov 2025 11:30:00 GMT</pubDate>
+      <title>HSBC México</title>
+      <link>https://www.hsbc.com.mx</link>
+      <description>Portal de banca en línea HSBC México</description>
+      <pubDate>Thu, 13 Nov 2025 09:30:00 GMT</pubDate>
     </item>
 
   </channel>
